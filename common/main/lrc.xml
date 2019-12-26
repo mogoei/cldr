@@ -17,19 +17,19 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 			<localeKeyTypePattern>{0}: {1}</localeKeyTypePattern>
 		</localeDisplayPattern>
 		<languages>
-			<language type="ab">آذأربایئجانی</language>
+			<language type="ab">آزربایجانی</language>
 			<language type="af">آفریکانس</language>
-			<language type="agq">آقئم</language>
+			<language type="agq">آقم</language>
 			<language type="ak">آکان</language>
-			<language type="am">أمھأری</language>
-			<language type="ar">أرأڤی</language>
-			<language type="ar_001">عروی مدرن</language>
-			<language type="arn">ماپوٙچئ</language>
+			<language type="am">ٱمهٱری</language>
+			<language type="ar">عرۉیی</language>
+			<language type="ar_001">عرۉیی مدرن</language>
+			<language type="arn">ماپۊچی</language>
 			<language type="as">آسامی</language>
-			<language type="asa">آسوٙ</language>
-			<language type="az">آذأربایئجانی ھارگە</language>
-			<language type="az" alt="short">آذأری</language>
-			<language type="az_Arab">آذأری ھارگە</language>
+			<language type="asa">آسۊ</language>
+			<language type="az">آزربایجانی هارگٱ</language>
+			<language type="az" alt="short">آزری</language>
+			<language type="az_Arab">آزری هارگٱ</language>
 			<language type="ba">باشکیری</language>
 			<language type="be">بئلاروٙسی</language>
 			<language type="bem">بیما</language>
